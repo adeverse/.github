@@ -11,4 +11,4 @@ In detail, you can find here the development versions of the following software:
 - [**adespatial**](http://adeverse.github.io/adespatial/), which provides tools for the multiscale spatial analysis of multivariate data
 - **adephylo**, which contains multivariate tools to analyze comparative data, i.e. a phylogeny and some traits measured for each taxa. 
  
-A full description of ade4 and its scientific and software environment is available in a dedicated **website** (https://adeverse.github.io/ade4/) and **book** (https://link.springer.com/book/10.1007/978-1-4939-8850-1).
+A full description of `ade4` and its scientific and software environment is available in a dedicated **website** (https://adeverse.github.io/ade4/) and **book** (https://link.springer.com/book/10.1007/978-1-4939-8850-1).
